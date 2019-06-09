@@ -1,4 +1,4 @@
-class Allen extends LivingCreature {
+module.exports = class Allen extends LivingCreature {
 
     constructor(x, y, index) {
         super(x, y, index);

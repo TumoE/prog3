@@ -1,5 +1,6 @@
 
 var matrix = [];
+var Allen = require("./Alien.js");
 
 function RandomMatrix() {
     
