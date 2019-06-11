@@ -1,6 +1,11 @@
 
 var matrix = [];
-var Allen = require("./Alien.js");
+
+var Allen = require("./Alien");
+var Grass = require("./Grass");
+var GrassEater = require("./GrassEater");
+var Predator = require("./Predator");
+var Bomb = require("./Bomb");
 
 function RandomMatrix() {
     
